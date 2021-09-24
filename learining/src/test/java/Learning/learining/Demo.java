@@ -6,7 +6,7 @@ public class Demo {
 	
 	@Test
 	public void t1() {
-		System.out.println("\\s"+"");
+		System.out.println("\\s"+"a");
 	}
 
 }
