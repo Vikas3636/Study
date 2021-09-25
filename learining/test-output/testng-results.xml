@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="129" started-at="2021-09-25T01:26:21 IST" finished-at="2021-09-25T01:26:21 IST">
+  <suite name="Default suite" duration-ms="50" started-at="2021-09-25T13:12:59 IST" finished-at="2021-09-25T13:12:59 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="129" started-at="2021-09-25T01:26:21 IST" finished-at="2021-09-25T01:26:21 IST">
-      <class name="Learning.learining.AppTest">
-        <test-method status="PASS" signature="shouldAnswerWithTrue()[pri:0, instance:Learning.learining.AppTest@4b2bac3f]" name="shouldAnswerWithTrue" duration-ms="21" started-at="2021-09-25T01:26:21 IST" finished-at="2021-09-25T01:26:21 IST">
+    <test name="Default test" duration-ms="50" started-at="2021-09-25T13:12:59 IST" finished-at="2021-09-25T13:12:59 IST">
+      <class name="Learning.learining.Demo">
+        <test-method status="PASS" signature="t1()[pri:0, instance:Learning.learining.Demo@6c49835d]" name="t1" duration-ms="8" started-at="2021-09-25T13:12:59 IST" finished-at="2021-09-25T13:12:59 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- shouldAnswerWithTrue -->
-      </class> <!-- Learning.learining.AppTest -->
+        </test-method> <!-- t1 -->
+      </class> <!-- Learning.learining.Demo -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
